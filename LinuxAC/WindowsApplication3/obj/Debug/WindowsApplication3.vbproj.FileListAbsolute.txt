@@ -1,0 +1,14 @@
+c:\users\snow\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+c:\users\snow\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+c:\users\snow\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\snow\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Renci.SshNet.dll
+c:\users\snow\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Renci.SshNet.pdb
+c:\users\snow\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Renci.SshNet.xml
+c:\users\snow\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\LinuxAC.exe.config
+c:\users\snow\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\LinuxAC.xml
+c:\users\snow\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\LinuxAC.exe
+c:\users\snow\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\LinuxAC.pdb
+c:\users\snow\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\LinuxAC.xml
+c:\users\snow\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.LinuxAC.resources
+c:\users\snow\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\LinuxAC.exe
+c:\users\snow\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\LinuxAC.pdb
